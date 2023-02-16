@@ -15,7 +15,7 @@ pip install flask
 
 ## Running the code
 ```
-python 102067009.py "The Weeknd" 20 20 sample-output.mp3
+python 102067009-mashup.py "The Weeknd" 20 20 sample-output.mp3
 ```
 
 ```
